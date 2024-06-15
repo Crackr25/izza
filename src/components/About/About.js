@@ -31,7 +31,7 @@ function About() {
               className="purple"
               style={{ fontSize: "2.1em", paddingBottom: "20px" }}
             >
-              FEATURE WRITING STORY ABOUT WOMEN EMPOWERMENT
+              MY ADVOCACY
             </h1>
           </Col>
           <Col
@@ -91,7 +91,7 @@ function About() {
                 className="purple mt-5"
                 style={{ fontSize: "2em", paddingBottom: "20px" }}
               >
-                #WomenRights{" "}
+                #WomenRight{" "}
               </h2>
               <iframe
                 src={vid2}

@@ -10,10 +10,10 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET US <span className="purple"> INTRODUCE </span> Myself
+              LET ME <span className="purple"> INTRODUCE </span> Myself
             </h1>
             <p className="home-about-body">
-              CURRENTLY STUDYING AT CURRENTLY STUDYING ATUNIVERSITY OF SCIENCE
+              CURRENTLY STUDYING AT UNIVERSITY OF SCIENCE
               AND TECHNOLOGY OF SOUTHERN PHILIPPINES A 2ND YEAR TAKING UP &nbsp;
               <i>
                 <b className="purple">
